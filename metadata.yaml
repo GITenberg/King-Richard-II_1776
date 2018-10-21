@@ -1,5 +1,5 @@
 _repo: King-Richard-II_1776
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Great Britain -- History -- Richard II, 1377-1399 -- Drama'
 - !lcc 'PR'
 - !lcsh 'Richard II, King of England, 1367-1400 -- Drama'
+- GITenberg
 title: King Richard II
 url: http://www.gutenberg.org/ebooks/1776
